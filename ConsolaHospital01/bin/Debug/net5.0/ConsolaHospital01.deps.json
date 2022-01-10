@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaHospital01/1.0.0": {
+        "dependencies": {
+          "BiblotecaDeClases": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaHospital01.dll": {}
+        }
+      },
+      "BiblotecaDeClases/1.0.0": {
+        "runtime": {
+          "BiblotecaDeClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaHospital01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BiblotecaDeClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

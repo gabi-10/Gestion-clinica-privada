@@ -1,0 +1,12 @@
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\bin\Debug\net5.0\BiblotecaDeClases.deps.json
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\bin\Debug\net5.0\BiblotecaDeClases.dll
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\bin\Debug\net5.0\ref\BiblotecaDeClases.dll
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\bin\Debug\net5.0\BiblotecaDeClases.pdb
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\obj\Debug\net5.0\BiblotecaDeClases.csproj.AssemblyReference.cache
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\obj\Debug\net5.0\BiblotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\obj\Debug\net5.0\BiblotecaDeClases.AssemblyInfoInputs.cache
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\obj\Debug\net5.0\BiblotecaDeClases.AssemblyInfo.cs
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\obj\Debug\net5.0\BiblotecaDeClases.csproj.CoreCompileInputs.cache
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\obj\Debug\net5.0\BiblotecaDeClases.dll
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\obj\Debug\net5.0\ref\BiblotecaDeClases.dll
+D:\Ejercicios Visual\EvaluacionHospitalVegaGabriel\BiblotecaDeClases\obj\Debug\net5.0\BiblotecaDeClases.pdb
